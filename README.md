@@ -2,4 +2,4 @@
 Practice Repository
 Hello!
 
-My name is Jack. I am Grand Rapids, Michigan.
+My name is Jack. I am from Grand Rapids, Michigan.
